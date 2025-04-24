@@ -8,3 +8,5 @@ You can click the Preview link to take a look at your changes.
  💻 i like programming
  📚 I am a computer student
 --->
+
+<img src="https://animeflix.com.br/wp-content/uploads/2025/02/Hunter-x-Hunter-1-696x392.jpg">

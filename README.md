@@ -1,4 +1,4 @@
-g ## Hi There  👋 
+  Hi There  👋 
  💻 i like programming
  📚 I am a computer student
 

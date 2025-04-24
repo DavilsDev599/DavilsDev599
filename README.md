@@ -13,5 +13,3 @@ You can click the Preview link to take a look at your changes.
 
 ## Estou Aprendendo 
 
-<img src="https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png" height="125vw" widht="100vh">
-<img src="https://logospng.org/wp-content/uploads/javascript.png" height="125vw" widht="100vh">

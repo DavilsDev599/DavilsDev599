@@ -12,5 +12,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://animeflix.com.br/wp-content/uploads/2025/02/Hunter-x-Hunter-1-696x392.jpg" height="140vw" widht="100vh">
 
 ## Estou Aprendendo 
-<img src="https://usagif.com/pt/gifs-digitando-gatos/?srsltid=AfmBOorU5JId9w8xBOieU2kBGbbmQXlvd1t49lwv4EK_9NsvIdCHMa0e">
-
+<img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
